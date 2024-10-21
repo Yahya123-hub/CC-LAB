@@ -1,0 +1,11 @@
+int a;
+float b;
+double c;
+string name;
+bool flag;
+char letter;
+if (a > 5) {
+    return a;
+} else {
+    return 0;
+}
